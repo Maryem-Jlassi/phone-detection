@@ -9,7 +9,7 @@ This project demonstrates the use of YOLOv8 (You Only Look Once, version 8) to d
 
 The dataset used for training the model contains images of mobile phones. You can access and download the dataset from my Google Drive:
 
-- [Mobile Detection Dataset (Google Drive)](https://drive.google.com/drive/folders/your-dataset-link)
+- [Mobile Detection Dataset (Google Drive)](https://drive.google.com/drive/folders/1jvOAuFd_TKhALUoGtDCUNZdnkDK9ibpr?usp=drive_link)
 
 **Dataset Details:**
 - The dataset includes labeled images of mobile phones.
